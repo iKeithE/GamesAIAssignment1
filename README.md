@@ -1,3 +1,6 @@
+Name: Keith Eyre
+Student ID: D11124850
+
 # Games AI Assignment 1
 This is the repo where I will post the code and files for my Games AI Assignment 1
 
